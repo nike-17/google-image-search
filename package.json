@@ -1,0 +1,27 @@
+{
+  "name": "google-image-search",
+  "version": "1.0.0",
+  "description": "Google images via node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nike-17/google-image-search.git"
+  },
+  "keywords": [
+    "google",
+    "search",
+    "images"
+  ],
+  "author": "Nikita Groshin <nikita@groshin.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nike-17/google-image-search/issues"
+  },
+  "homepage": "https://github.com/nike-17/google-image-search#readme",
+  "dependencies": {
+    "request": "^2.61.0"
+  }
+}
